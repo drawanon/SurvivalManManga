@@ -1,0 +1,809 @@
+{
+  "title": "SurvivalMan",
+  "description": "SurvivalMan description",
+  "artist": "Cas",
+  "author": "Cas",
+  "cover": "https://i.imgur.com/3e1p7lf.png",
+  "chapters": {
+    "1": {
+      "title": "Humble beginnings",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/qE3R1J9/",
+      },
+      "last_updated": "1617343721"
+    },
+    "2": {
+      "title": "Leave no survivors",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/MPxrQmH/",
+      },
+      "last_updated": "1617343721"
+    },
+    "3": {
+      "title": "up up down down left right left right A B start...",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/fvZtNed/",
+      },
+      "last_updated": "1617343721"
+    },
+    "4": {
+      "title": "How to train your demon",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/QpoYYL2/",
+      },
+      "last_updated": "1617343721"
+    },
+    "5": {
+      "title": "I want to know what love is",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/gWNwEil/",
+      },
+      "last_updated": "1617343721"
+    },
+    "6": {
+      "title": "Deal with the devil",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/mgur/chapter/Dxe96/",
+      },
+      "last_updated": "1617343721"
+    },
+    "7": {
+      "title": "Bigger picture; bigger problems",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/mgur/chapter/YWyox/",
+      },
+      "last_updated": "1617343721"
+    },
+    "8": {
+      "title": "Hero!",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/mgur/chapter/EfL7L/",
+      },
+      "last_updated": "1617343721"
+    },
+    "9": {
+      "title": "Man vs wild demon",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/mgur/chapter/p1Ad3/",
+      },
+      "last_updated": "1617343721"
+    },
+    "10": {
+      "title": "Pig in the city",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/Gi3qn/",
+      },
+      "last_updated": "1617343721"
+    },
+    "11": {
+      "title": "Never let go",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/Lb0y5/",
+      },
+      "last_updated": "1617343721"
+    },
+    "12": {
+      "title": "Cat's out of the bag and staying out",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/Igpg1/",
+      },
+      "last_updated": "1617343721"
+    },
+    "13": {
+      "title": "Mission's a no-go baby",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/RxSIU/",
+      },
+      "last_updated": "1617343721"
+    },
+    "14": {
+      "title": "Collateral damage",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/AUsHt/",
+      },
+      "last_updated": "1617343721"
+    },
+    "15": {
+      "title": "Cry HAVOC and let slip the dogs of war!",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/ZqAmi/",
+      },
+      "last_updated": "1617343721"
+    },
+    "16": {
+      "title": "To play God",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/eD9qG/",
+      },
+      "last_updated": "1617343721"
+    },
+    "17": {
+      "title": "Nailed it!",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/P5k3Z/",
+      },
+      "last_updated": "1617343721"
+    },
+    "18": {
+      "title": "Choice and choicelessness",
+      "volume": "Volume 1 - Survival", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/wdYv9/",
+      },
+      "last_updated": "1617343721"
+    },
+    "19": {
+      "title": "Reprieve",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/TKnVa/",
+      },
+      "last_updated": "1617343721"
+    },
+    "20": {
+      "title": "Great power; no responsibility",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/XErCD/",
+      },
+      "last_updated": "1617343721"
+    },
+    "21": {
+      "title": "The worlds smallest violin",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/AMJic/",
+      },
+      "last_updated": "1617343721"
+    },
+    "22": {
+      "title": "Stray Samurai",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/YWIvV/",
+      },
+      "last_updated": "1617343721"
+    },
+    "23": {
+      "title": "Pick up the pieces",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/wnkAx/",
+      },
+      "last_updated": "1617343721"
+    },
+    "24": {
+      "title": "Not-so humble beginnings",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/FK5HS/",
+      },
+      "last_updated": "1617343721"
+    },
+    "25": {
+      "title": "spelunking with a side of murder",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/JwoHP/",
+      },
+      "last_updated": "1617343721"
+    },
+    "26": {
+      "title": "Apocalypse soon",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/tW1Eo/",
+      },
+      "last_updated": "1617343721"
+    },
+    "27": {
+      "title": "Dead air",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/StAqY/",
+      },
+      "last_updated": "1617343721"
+    },
+    "28": {
+      "title": "It's time to d-d-d-d-d-d-d-d-d-duel!",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/N88JY/",
+      },
+      "last_updated": "1617343721"
+    },
+    "29": {
+      "title": "SHOWTIME!",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/bzi6c/",
+      },
+      "last_updated": "1617343721"
+    },
+    "30": {
+      "title": "Cheese it",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/kijoy/",
+      },
+      "last_updated": "1617343721"
+    },
+    "31": {
+      "title": "Chicks dig giant robots",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/xaDEb/",
+      },
+      "last_updated": "1617343721"
+    },
+    "32": {
+      "title": "Power ballad",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/q02ph/",
+      },
+      "last_updated": "1617343721"
+    },
+    "33": {
+      "title": "Dar-gon dragons",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/V6xGc/",
+      },
+      "last_updated": "1617343721"
+    },
+    "34": {
+      "title": "Souls for children's trading cards",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/L8JnF/",
+      },
+      "last_updated": "1617343721"
+    },
+    "35": {
+      "title": "Clap clap; intervention",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/A2BEv/",
+      },
+      "last_updated": "1617343721"
+    },
+    "36": {
+      "title": "How to train your dragon, and everyone else",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/hrHfG/",
+      },
+      "last_updated": "1617343721"
+    },
+    "37": {
+      "title": "memes & shattered dreams",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/rBzj7/",
+      },
+      "last_updated": "1617343721"
+    },
+    "38": {
+      "title": "Crystals and Pochizza",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/THrcq/",
+      },
+      "last_updated": "1617343721"
+    },
+    "39": {
+      "title": "Prisoners of Conspiracy",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/tu2ZSoY/",
+      },
+      "last_updated": "1617343721"
+    },
+    "40": {
+      "title": "Arranging the pieces",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/WNRy18R/",
+      },
+      "last_updated": "1617343721"
+    },
+    "41": {
+      "title": "Last meal",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/QpZZhDK/",
+      },
+      "last_updated": "1617343721"
+    },
+    "42": {
+      "title": "Confrontation amid the ruins",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/DytZ8eJ/",
+      },
+      "last_updated": "1617343721"
+    },
+    "43434343434343434343434343434343434343434343434343434343434343434343434343434343434343": {
+      "title": "Big Mama",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/y743BO3/",
+      },
+      "last_updated": "1617343721"
+    },
+    "44": {
+      "title": "The customs have been met",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/soy2n4J/",
+      },
+      "last_updated": "1617343721"
+    },
+    "45": {
+      "title": "Loyalty",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/0oNDqLr/",
+      },
+      "last_updated": "1617343721"
+    },
+    "46": {
+      "title": "Dance with the devil",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/Kp2SAg5/",
+      },
+      "last_updated": "1617343721"
+    },
+    "47": {
+      "title": "And then there was one",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/Cf50sEQ/",
+      },
+      "last_updated": "1617343721"
+    },
+    "48": {
+      "title": "Certain doom",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/6GAPbXE/",
+      },
+      "last_updated": "1617343721"
+    },
+    "49": {
+      "title": "Toll of the unqualified",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/7lthiYD/",
+      },
+      "last_updated": "1617343721"
+    },
+    "50": {
+      "title": "Dead dogma",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/7UnZoeB/",
+      },
+      "last_updated": "1617343721"
+    },
+    "51": {
+      "title": "Prisoner of Loyalty",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/r2oCXKO/",
+      },
+      "last_updated": "1617343721"
+    },
+    "52": {
+      "title": "Course correction",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/BlwLV0v/",
+      },
+      "last_updated": "1617343721"
+    },
+    "53": {
+      "title": "Minimal contact",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/iaVE1iY/",
+      },
+      "last_updated": "1617343721"
+    },
+    "54": {
+      "title": "Kneel or face oblivion",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/nRindfL/",
+      },
+      "last_updated": "1617343721"
+    },
+    "55": {
+      "title": "Origin",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/2vgSL4p/",
+      },
+      "last_updated": "1617343721"
+    },
+    "56": {
+      "title": "I don't believe I can fly",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/NUfB0DN/",
+      },
+      "last_updated": "1617343721"
+    },
+    "57": {
+      "title": "Stop in the name of love!",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/HyfsoQo/",
+      },
+      "last_updated": "1617343721"
+    },
+    "58": {
+      "title": "Justice",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/XrDLtTg/",
+      },
+      "last_updated": "1617343721"
+    },
+    "59": {
+      "title": "Keep calm and carry on",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/yULKLCj/",
+      },
+      "last_updated": "1617343721"
+    },
+    "60": {
+      "title": "GG, no RE",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/8NlcPU4/",
+      },
+      "last_updated": "1617343721"
+    },
+    "61": {
+      "title": "WORTH IT",
+      "volume": "Volume 2 - The Hunt",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/VBAblwC/",
+      },
+      "last_updated": "1617343721"
+    },
+    "62": {
+      "title": "Flight of the concords",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/X6pkYMn/",
+      },
+      "last_updated": "1617343721"
+    },
+    "63": {
+      "title": "Hatred",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/otMx1tU/",
+      },
+      "last_updated": "1617343721"
+    },
+    "64": {
+      "title": "A special kind of stupid",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/pf319EW/",
+      },
+      "last_updated": "1617343721"
+    },
+    "65": {
+      "title": "Muda muda",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/D2YhvBl/",
+      },
+      "last_updated": "1617343721"
+    },
+    "66": {
+      "title": "It's hip to be square",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/V7yUBaF/",
+      },
+      "last_updated": "1617343721"
+    },
+    "67": {
+      "title": "Like a bat outta hell",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/dasFMar/",
+      },
+      "last_updated": "1617343721"
+    },
+    "68": {
+      "title": "The winner takes it all; the loser has to fall",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/VmXkGts/",
+      },
+      "last_updated": "1617343721"
+    },
+    "69": {
+      "title": "Standing there; Sitting here",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/ZWdhV0X/",
+      },
+      "last_updated": "1617343721"
+    },
+    "70": {
+      "title": "Misdirection",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/N5WDjrm/",
+      },
+      "last_updated": "1617343721"
+    },
+    "71": {
+      "title": "Feline",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/tlanksk/",
+      },
+      "last_updated": "1617343721"
+    },
+    "72": {
+      "title": "Sorority royalty",
+      "volume": "Volume 2.5 - A Night of Mischief",
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/iwXxoA6/",
+      },
+      "last_updated": "1617343721"
+    },
+    "73": {
+      "title": "Black",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/vNKh2xf/",
+      },
+      "last_updated": "1617343721"
+    },
+    "74": {
+      "title": "Red",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/7vUc0hW/",
+      },
+      "last_updated": "1617343721"
+    },
+    "75": {
+      "title": "White",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/hodpJh7/",
+      },
+      "last_updated": "1617343721"
+    },
+    "76": {
+      "title": "Birds of Prey",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/LLsLP2n/",
+      },
+      "last_updated": "1617343721"
+    },
+    "77": {
+      "title": "Big bird; big plans",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/5VkpWYq/",
+      },
+      "last_updated": "1617343721"
+    },
+    "78": {
+      "title": "Heated conflict",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/cbxxDY3/",
+      },
+      "last_updated": "1617343721"
+    },
+    "79": {
+      "title": "Mile high club",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/v5Nk6gM/",
+      },
+      "last_updated": "1617343721"
+    },
+    "80": {
+      "title": "Happy landing",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/wOprECz/",
+      },
+      "last_updated": "1617343721"
+    },
+    "81": {
+      "title": "Another happy landing",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/BFfTbbb/",
+      },
+      "last_updated": "1617343721"
+    },
+    "82": {
+      "title": "Balls of tungsten",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/q1DWJAF/",
+      },
+      "last_updated": "1617343721"
+    },
+    "83": {
+      "title": "Crossroads",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/qzV8DlU/",
+      },
+      "last_updated": "1617343721"
+    },
+    "84": {
+      "title": "A penny for your thoughts",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/vNS0ptf/",
+      },
+      "last_updated": "1617343721"
+    },
+    "85": {
+      "title": "Filling in the blanks",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/XRxUVtg/",
+      },
+      "last_updated": "1617343721"
+    },
+    "86": {
+      "title": "Revision",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/GFFUoia/",
+      },
+      "last_updated": "1617343721"
+    },
+    "87": {
+      "title": "Stubborn Highborn",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/WLyZ3av/",
+      },
+      "last_updated": "1617343721"
+    },
+    "88": {
+      "title": "Everything happens for a reason",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/Sa7IpFb/",
+      },
+      "last_updated": "1617343721"
+    },
+    "89": {
+      "title": "Clowns to the left of me; jokers to the right",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/yGxbGdG/",
+      },
+      "last_updated": "1617343721"
+    },
+    "90": {
+      "title": "Q&A",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/0Olq2UP/",
+      },
+      "last_updated": "1617343721"
+    },
+    "91": {
+      "title": "Broaden Horizons",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/FwqS2LK/",
+      },
+      "last_updated": "1617343721"
+    },
+    "92": {
+      "title": "Shadow of regret",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/RQ8gVa7/",
+      },
+      "last_updated": "1617343721"
+    },
+    "93": {
+      "title": "What's new pussy cat?",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/IsQCPZz/",
+      },
+      "last_updated": "1617343721"
+    },
+    "94": {
+      "title": "Sticks and Stones",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/MTqC3h8/",
+      },
+      "last_updated": "1617343721"
+    },
+    "95": {
+      "title": "Rock you like a hurricane",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/m8Jt7NR/",
+      },
+      "last_updated": "1617343721"
+    },
+    "96": {
+      "title": "Emit",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/a68yZT5/",
+      },
+      "last_updated": "1617343721"
+    },
+    "97": {
+      "title": "Pyrrhic Victory",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/pp1k7v3/",
+      },
+      "last_updated": "1617343721"
+    },
+    "98": {
+      "title": "Mistaken Identity",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/vPaizbK/",
+      },
+      "last_updated": "1617343721"
+    },
+    "99": {
+      "title": "Tuna Tussle",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/ZuP8MGS/",
+      },
+      "last_updated": "1617343721"
+    },
+    "100": {
+      "title": "WiP",
+      "volume": "Volume 3 - Rock in the Road", 
+      "groups": {
+        "Cas": "/proxy/api/imgur/chapter/Wy9BHJp/",
+      },
+      "last_updated": "1617343721"
+    }
+  }
+}
